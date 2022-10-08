@@ -1,1 +1,1 @@
-# Weather
+#MERN stack-based weather project
